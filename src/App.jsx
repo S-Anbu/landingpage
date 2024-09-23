@@ -27,7 +27,7 @@ function App() {
         <div>
           <div className='relative'>
             <CarouselSlide />
-            <div data-aos="fade-down" data-aos-anchor=".other-element" data-aos-duration="1000" className='absolute ml-10  md:ml-20 lg:mr-10   text-center text-white top-5 md:top-10 md:left-1/6  lg:left-1/3 '>
+            <div data-aos="fade-down" data-aos-anchor=".other-element" data-aos-duration="1000" className='absolute ml-10  md:ml-20 lg:mr-10   text-center text-white top-5 md:top-10 md:left-1/6  lg:left-1/4 '>
               <h1 className='text-lg md:text-4xl '>Producing what the world needs</h1>
               <p className='md:text-2xl'>Is the beginning of all</p>
               <button className='bg-orange-300 px-2 py-1 hover:bg-orange-400 md:text-2xl md:mt-4 lg:mt-4'>VIEW MORE</button>
